@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "259274479636",
+    "project_id": "sword-play-ninja-slice-runner",
+    "storage_bucket": "sword-play-ninja-slice-runner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259274479636:android:56c00394c59dfdfc8a6f01",
+        "android_client_info": {
+          "package_name": "com.barsstudios.swordplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259274479636-ngpom31b6li2h7j4q9moqu5ngu0s21pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7qhngf0bYLftTP10cVNMQ2CKg0n1QjYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259274479636-ngpom31b6li2h7j4q9moqu5ngu0s21pq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259274479636-t630r1njimfegeg58bsqapf4hff57s49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barsstudios.swordplay2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
